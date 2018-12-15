@@ -10,6 +10,7 @@
  * @author     Magento Core Team <core@magentocommerce.com>
  */
 namespace Godogi\ZoomLoggedIn\Block\Product\View;
+use Magento\Framework\Json\EncoderInterface;
 
 class Gallery extends \Magento\Catalog\Block\Product\View\Gallery
 {
