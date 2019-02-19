@@ -12,8 +12,6 @@ Allow product zooming only for logged in users
 
 4. bin/magento setup:di:compile
 
-If using OpCache, please clear cache.
-
 
 ## Compatibility
 
